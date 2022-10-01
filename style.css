@@ -1,0 +1,60 @@
+*{
+  border: 0;
+  margin:0;
+  padding: 0;
+}
+
+ #logo{
+  height: 48px;
+  width: 31.085588455200195px;
+  left: 44px;
+  top: 0px;
+  border-radius: 0px;
+  color: #0A3871;
+  
+
+}
+
+section {
+  box-sizing: border-box;
+  padding: 1rem;
+ 
+  height: 1024px;
+  width: 1440px;
+  left: -720px;
+  top: -513px;
+  border-radius: 0px;
+  background: #F3F5FC;
+
+
+}
+
+input[type="text"]{
+  background-color:#eee;
+  border: 1px solid gray;
+  font-size: 1.7rem;
+}
+
+
+input[type="button"]{
+  background-color:steelblue;
+  color: white;
+  border: 1px solid gray;
+  font-size: 1.7rem;
+  padding: 0.3rem;
+}
+
+div {
+  font-size: 1.7rem;
+  padding: 0.3rem;
+  margin: 0.5rem;
+}
+div#frase{
+  padding: 0.4rem;
+  border: 1px solid steelblue;
+  text-align: center;
+
+}
+
+
+
